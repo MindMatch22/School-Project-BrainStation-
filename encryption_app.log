@@ -1,0 +1,82 @@
+INFO:__main__:Encrypted Text: CYUnQTarAwYX19rqRt+iXwk8f+58XemP5STSHLSGxDiF0aAEek3crH5u0C1/gpEm7WacoPkPyjAx98ck9GA=
+ERROR:__main__:Error: Both plaintext and key are required for encryption.
+ERROR:__main__:Both plaintext and key are required for encryption.
+ERROR:__main__:Both plaintext and key are required for encryption.
+ERROR:__main__:Both plaintext and key are required for encryption.
+ERROR:__main__:Both plaintext and key are required for encryption.
+NoneType: None
+ERROR:__main__:Both plaintext and key are required for encryption.
+NoneType: None
+ERROR:__main__:Both plaintext and key are required for encryption.
+NoneType: None
+ERROR:__main__:Both plaintext and key are required for encryption.
+NoneType: None
+ERROR:__main__:Both plaintext and key are required for encryption.
+NoneType: None
+ERROR:__main__:Both plaintext and key are required for encryption.
+NoneType: None
+ERROR:__main__:Both plaintext and key are required for encryption.
+ERROR:__main__:Both plaintext and key are required for encryption.
+ERROR:__main__:Both plaintext and key are required for encryption.
+ERROR:__main__:Both plaintext and key are required for encryption.
+2024-08-19 17:22:26,563:ERROR:__main__:Both plaintext and key are required for encryption.
+ERROR:2024-08-19 17:22:59,009:__main__:Both plaintext and key are required for encryption.
+2024-08-19 17:24:22,701:__main__:Both plaintext and key are required for encryption.
+ERROR:2024-08-19 17:24:51,693:__main__:Both plaintext and key are required for encryption.
+INFO:2024-08-19 17:53:25,822:__main__:Encryption in process
+DEBUG:2024-08-19 17:53:25,822:__main__:lenght of plaintext: 62
+DEBUG:2024-08-19 17:53:25,822:__main__:Generating a 32-byte (256-bit) key using PBKDF2
+INFO:2024-08-19 17:53:25,958:__main__:Encrypted Text: RASAIFoxSwga4urobwvn7IEYtf0bXAjiza06GBrEwD/LnSGiapjJRJszRpTmUFXfMT/Lvdtl26vl7fJUFE8=
+INFO:2024-08-19 17:55:22,433:__main__:Encryption/Decryption completed
+INFO:2024-08-19 17:56:39,804:__main__:Encryption/Decryption completed
+INFO:2024-08-19 17:58:28,772:__main__:Encryption/Decryption completed
+ERROR:2024-08-19 17:58:57,267:__main__:Both plaintext and key are required for encryption.
+INFO:2024-08-19 18:14:18,845:__main__:Encryption in process
+ERROR:2024-08-19 18:14:18,845:__main__:Both plaintext and key are required for encryption.
+INFO:2024-08-19 18:22:50,414:__main__:Encryption in process
+INFO:2024-08-19 18:22:50,414:__main__:Encryption in process
+INFO:2024-08-19 18:22:50,541:__main__:Encryption has completed sucessfully
+INFO:2024-08-19 18:22:50,541:__main__:Encrypted Text: 4ZdOAMFOnFyRA58yo5mDedFV87MJmiRMFSMSdkoa/Swh3upGlVOI1x1Mf+3l6hJjlX/I0ufj+oSQS4BJZY0=
+INFO:2024-08-19 18:22:50,542:__main__:Decryption in process
+INFO:2024-08-19 18:23:10,981:__main__:Encryption in process
+INFO:2024-08-19 18:23:11,114:__main__:Encryption has completed sucessfully
+INFO:2024-08-19 18:23:11,114:__main__:Encrypted Text: 4ZdOAMFOnFyRA58yo5mDedFV87MJmiRMFSMSdkoa/Swh3upGlVOI1x1Mf+3l6hJjlX/I0ufj+oSQS4BJZY0=
+INFO:2024-08-19 18:23:11,114:__main__:Decryption in process
+INFO:2024-08-19 18:27:26,693:__main__:Encryption in process
+INFO:2024-08-19 18:27:26,821:__main__:Encryption has completed sucessfully
+INFO:2024-08-19 18:27:26,821:__main__:Encrypted Text: 4ZdOAMFOnFyRA58yo5mDedFV87MJmiRMFSMSdkoa/Swh3upGlVOI1x1Mf+3l6hJjlX/I0ufj+oSQS4BJZY0=
+INFO:2024-08-19 18:27:26,821:__main__:Decryption in process
+INFO:2024-08-19 18:29:01,466:__main__:Encryption in process
+INFO:2024-08-19 18:29:01,614:__main__:Encrypted Text: 4ZdOAMFOnFyRA58yo5mDedFV87MJmiRMFSMSdkoa/Swh3upGlVOI1x1Mf+3l6hJjlX/I0ufj+oSQS4BJZY0=
+INFO:2024-08-19 18:29:01,614:__main__:Decryption in process
+INFO:2024-08-19 18:31:45,466:__main__:Encryption in process
+INFO:2024-08-19 18:31:45,601:__main__:Encrypted Text: 4ZdOAMFOnFyRA58yo5mDedFV87MJmiRMFSMSdkoa/Swh3upGlVOI1x1Mf+3l6hJjlX/I0ufj+oSQS4BJZY0=
+INFO:2024-08-19 18:31:45,602:__main__:Decryption in process
+INFO:2024-08-19 18:34:46,660:__main__:Encryption in process
+INFO:2024-08-19 18:34:46,791:__main__:Encrypted Text: 4ZdOAMFOnFyRA58yo5mDedFV87MJmiRMFSMSdkoa/Swh3upGlVOI1x1Mf+3l6hJjlX/I0ufj+oSQS4BJZY0=
+INFO:2024-08-19 18:34:46,791:__main__:Decryption in process
+INFO:2024-08-19 18:47:51,397:__main__:Encryption in process
+INFO:2024-08-19 18:47:51,523:__main__:Encrypted Text: 5sFqzbY6PL+sqOlkhygY6BTe4WlTzh59Q0qV6EhBS3BseAXZhVY0xZYbdvRl7zBj67aABN4U+SmGqiNSiMw=
+ERROR:2024-08-19 19:10:21,160:__main__:Error decoding ciphertext: 'utf-8' codec can't decode byte 0x9b in position 3: invalid start byte
+INFO:2024-08-19 19:10:21,160:__main__:Decrypted Text: None
+ERROR:2024-08-19 19:13:26,819:__main__:Error decoding ciphertext: 'utf-8' codec can't decode byte 0x9b in position 3: invalid start byte
+INFO:2024-08-19 19:13:26,819:__main__:Decrypted Text: None
+INFO:2024-08-19 19:14:52,189:__main__:Encryption in process
+INFO:2024-08-19 19:14:52,316:__main__:Encrypted Text: CYUnQTarAwYX19rqRt+iXwk8f+58XemP5STSHLSGxDiF0aAEek3crH5u0C1/gpEm7WacoPkPyjAx98ck9GA=
+INFO:2024-08-19 19:15:29,163:__main__:Encryption in process
+INFO:2024-08-19 19:15:29,272:__main__:Encrypted Text: I+zJ7UCYvb5RSQSbYDQqxWQIi2GKFhnCwR7auYnOJ3mEbaWVr5BUbtj3JgqQOZO5tb21D8S3yozhaQ7JsFd/yBmPDgNMYNyBLoVj5yBAlELhF8UP
+ERROR:2024-08-19 19:16:23,711:__main__:Error: Both ciphertext and key are required for decryption.
+INFO:2024-08-19 19:16:43,368:__main__:Decrypted Text: i love quiet space with a cup of coffee, lets make this happen
+ERROR:2024-08-19 19:19:21,360:__main__:Error decoding ciphertext: 'utf-8' codec can't decode byte 0x9b in position 3: invalid start byte
+INFO:2024-08-19 19:19:21,360:__main__:Decrypted Text: None
+INFO:2024-08-19 19:20:15,213:__main__:Encryption in process
+INFO:2024-08-19 19:20:15,338:__main__:Encrypted Text: 4ZdDCyNNLHMPGmsoi2II0Iw1AuQzrwQ=
+INFO:2024-08-19 19:20:44,976:__main__:Decrypted Text: i am testing decryption
+INFO:2024-08-19 19:23:02,068:__main__:Decrypted Text: i am testing decryption
+INFO:2024-08-19 19:23:09,753:__main__:Decrypted Text: i am testing decryption
+DEBUG:2024-08-19 19:27:04,161:__main__:Decryption in progress
+DEBUG:2024-08-19 19:27:04,162:__main__:Generating a 32-byte (256-bit) key using PBKDF2
+DEBUG:2024-08-19 19:27:04,223:__main__:Key generated sucessfully
+INFO:2024-08-19 19:27:04,295:__main__:Decrypted Text: i am testing decryption
+DEBUG:2024-08-19 19:27:42,508:__main__:Decryption in progress
+ERROR:2024-08-19 19:27:42,508:__main__:Error: Both ciphertext and key are required for decryption.
